@@ -1,0 +1,22 @@
+{
+  "name": "baro",
+  "version": "1.0.0",
+  "description": "Municipalidad",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marceloguemes/baro"
+  },
+  "author": "mguemes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marceloguemes/baro/issues"
+  },
+  "homepage": "https://github.com/marceloguemes/baro",
+  "devDependencies": {
+    "mongoose": "^4.3.3"
+  }
+}
